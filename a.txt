@@ -1,5 +1,8 @@
-sweet apples
-oranges
+apples
+
+sweet oranges
+
 kiwis
+
 carrots
 
